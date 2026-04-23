@@ -69,14 +69,14 @@
     `;
 
     wrap.innerHTML = `
-      <div style="font-size:14px;margin-bottom:8px;">Money Menu</div>
+      <div style="font-size:14px;margin-bottom:8px;">MoneyMenuV5</div>
 
       <input id="mg_money" style="width:90%;font-size:11px;padding:4px" placeholder="Money"><br><br>
       <input id="mg_bonus" style="width:90%;font-size:11px;padding:4px" placeholder="Bonus"><br><br>
       <input id="mg_prestige" style="width:90%;font-size:11px;padding:4px" placeholder="Prestige"><br><br>
 
       <button id="mg_apply" style="width:95%;font-size:11px;margin-bottom:6px;padding:5px;">
-        Apply
+        Apply Upper Buttons.
       </button>
 
       <button id="mg_toggle_rig" style="width:95%;font-size:11px;margin-bottom:6px;padding:5px;">
